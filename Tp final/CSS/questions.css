@@ -1,0 +1,24 @@
+.question{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.question-container{
+    border:black solid 1px;
+    border-radius: 4px;
+    margin: 30px;
+    padding: 20px;
+    background-color: rgb(248, 248, 248);
+}
+
+.button{
+    background-color: rgb(55, 126, 102);
+    color: white;
+    border: black 1px solid;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: 500;
+    font: bold;
+}
